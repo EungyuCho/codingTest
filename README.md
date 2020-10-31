@@ -5,5 +5,5 @@
 <h3>☕ SWEA page : https://swexpertacademy.com</h3>
 <ol>
   <li><code>1859</code> : 백만 장자 프로젝트 https://github.com/EungyuCho/codingTest/blob/master/src/sase/P1859.java</li>
-  <li><code>1204</code> : 최빈수 구하기 https://github.com/EungyuCho/codingTest/blob/master/src/sase/P1859.java</li>
+  <li><code>1204</code> : 최빈수 구하기 https://github.com/EungyuCho/codingTest/blob/master/src/sase/P1204.java</li>
 </ol>
