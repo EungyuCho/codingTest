@@ -1,6 +1,8 @@
+package sase;
+
 import java.util.Scanner;
 
-public class Solution {
+public class P2072 {
     public static final String DELIMITER = " ";
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -59,6 +61,6 @@ class OddList {
     }
 
     private String[] getNextLine(Scanner sc) {
-        return sc.nextLine().split(Solution.DELIMITER);
+        return sc.nextLine().split(P2072.DELIMITER);
     }
 }
